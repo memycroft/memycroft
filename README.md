@@ -5,3 +5,5 @@ My work focuses on building first-principles models of complex, interacting syst
 I am currently expanding my skills in machine learning and deep learning, with a focus on PyTorch.
 
 **Languages & tools:** Python · QuTiP · NumPy · Matplotlib · PyTorch
+
+_Profile photo:_ [Kamil Opas](https://kamilopas.pl/)
